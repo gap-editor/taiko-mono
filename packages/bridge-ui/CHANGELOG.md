@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.15.1](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2.15.0...bridge-ui-v2.15.1) (2026-01-12)
+
+
+### Bug Fixes
+
+* **bridge-ui:** correct error message in beforeReleasing method ([#20245](https://github.com/taikoxyz/taiko-mono/issues/20245)) ([69a0e66](https://github.com/taikoxyz/taiko-mono/commit/69a0e66dc3d2ffa61f05485a88ecd9f235c9d90e))
+* **repo:** correct typos across relayer, bridge-ui, and ui-lib ([#20337](https://github.com/taikoxyz/taiko-mono/issues/20337)) ([0c8ba23](https://github.com/taikoxyz/taiko-mono/commit/0c8ba23fb859388bff52fc208e31e0c73a66a2cf))
+* **repo:** fix typos ([#20846](https://github.com/taikoxyz/taiko-mono/issues/20846)) ([00d8218](https://github.com/taikoxyz/taiko-mono/commit/00d82183eb0912b0b365b084a0797c43a109763d))
+
+
+### Chores
+
+* **bridge:** remove redundant null assignment ([#20980](https://github.com/taikoxyz/taiko-mono/issues/20980)) ([1c167f0](https://github.com/taikoxyz/taiko-mono/commit/1c167f073ffa107d5ef4a87b8fea73058e5f22b3))
+
+
+### Code Refactoring
+
+* **bridge-ui:** remove quota manager ([#20794](https://github.com/taikoxyz/taiko-mono/issues/20794)) ([7bcf74a](https://github.com/taikoxyz/taiko-mono/commit/7bcf74a78fab1b2ed637ac881308e746c31c68dc))
+
 ## [2.15.0](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2.14.0...bridge-ui-v2.15.0) (2025-09-26)
 
 
