@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/taikoxyz/taiko-mono/compare/ejector-v0.4.0...ejector-v0.4.1) (2026-01-12)
+
+
+### Chores
+
+* **deps:** bump the cargo group across 5 directories with 2 updates ([#21116](https://github.com/taikoxyz/taiko-mono/issues/21116)) ([c76e37a](https://github.com/taikoxyz/taiko-mono/commit/c76e37a28d153f5b6407538f70ca28f0a93c82db))
+
 ## [0.4.0](https://github.com/taikoxyz/taiko-mono/compare/ejector-v0.3.0...ejector-v0.4.0) (2025-12-30)
 
 
